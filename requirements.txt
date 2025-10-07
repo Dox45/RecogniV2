@@ -1,10 +1,9 @@
 fastapi
+flask
 uvicorn[standard]
 python-multipart
 aiofiles
-opencv-python
-face-recognition
-dlib
+retinaface-pytorch
 numpy
 Pillow
 pydantic
